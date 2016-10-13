@@ -2,5 +2,3 @@
 
 - Diego Eckhard <diegoeck@ufrgs.br>
 - Francisco Wagner de Moura <chicofwm@hotmail.com>
--
--
