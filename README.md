@@ -1,1 +1,1 @@
-# mega-edo-solver
+# mega-ode-solver
